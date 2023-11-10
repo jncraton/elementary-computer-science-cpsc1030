@@ -60,14 +60,57 @@ A minimum of 2 exams will be taken in this course. All exams are cumulative with
 Topics by Week
 --------------
 
-1. Why CS and CT?
-1. K-2.CD
-2. 3-5.CD
-3. K-2.NI
-4. K-5.NI
-5. K-2.PA
-6. 3-5.PA
-7. K-2.DI
-8. 3-5.DI
+- Why CS and CT? [1 Week]
+- K-2.CD [1 Week]
+    - Hardware and software terminology and paradigms
+    - Troubleshooting Software Issues
+    - Selecting Appropriate Software
+- K-2.NI [1 Week]
+    - Computer networking basics
+    - The architecture of the Internet
+    - The worldwide web
+- K-2.PA [3 Weeks]
+    - Breaking problems into steps
+    - Optimizing instruction order
+    - Repeating instruction sequences
+    - Creating objects in BlocksCAD
+    - Step-by-step Scratch
+    - Branching in Scratch
+    - Loops in Scratch
+    - Flipped classroom Scratch project day
+    - Scratch project presentations
+- K-2.DI [1 Week]
+    - Data and information introduction and terminology
+    - Data representation in Sheets
+    - Data presentation in Sheets
+- 3-5.CD [1 Week]
+    - The nature of computer and machine intelligence
+    - The relationship between hardware and software
+    - Troubleshooting hardware and software issues
+- K-5.NI [1 Week]
+    - Passwords
+    - Cyberattack vectors
+    - Packets and Encryption
+- 3-5.PA [3 Weeks]
+    - Python: Expressions
+    - Python: Statements
+    - Python: Variables
+    - Python: Conditionals
+    - Python: Loops
+    - Attribution in software development
+    - Python project day 1
+    - Python project day 2
+    - Python project presentations
+- 3-5.DI [3 Weeks]
+    - Extremely basic data exploration using Colab and Pandas
+    - Descriptive statistic using Colab and Pandas
+    - Extremely basic data visualization using Colab and Pandas
+    - Step-by-step SPIKE
+    - Reacting to input with SPIKE
+    - Looping with SPIKE
+    - Logging sensor data with SPIKE
+    - Flipped SPIKE data project
+    - SPIKE project presentations
+- Final Exam
 
 !INCLUDE "tail.md"
