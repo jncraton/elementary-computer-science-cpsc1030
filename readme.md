@@ -28,7 +28,7 @@ Course Objectives
 2. Computing Devices and Systems (CD)
 3. Programs and Algorithms (PA)
 4. Networking and the Internet (NI)
-5. Impact and Culture (IC);
+5. Impact and Culture (IC)
 
 ### Core Practices
 
