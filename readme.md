@@ -78,12 +78,12 @@ Topics by Week
     - Branching and loops in Scratch
     - Flipped classroom Scratch project day
     - Scratch project presentations
-- Midterm [1 Week]
-    - Summary and review
-    - Midterm Exam
 - K-2.DI [1 Week]
     - Data and information introduction and terminology
     - Data representation and presentation in Sheets
+- Midterm [1 Week]
+    - Summary and review
+    - Midterm Exam
 - 3-5.CD [1 Week]
     - The nature of computer and machine intelligence
     - The relationship between hardware and software and trouble shooting
