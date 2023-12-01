@@ -79,6 +79,9 @@ Topics by Week
     - Loops in Scratch
     - Flipped classroom Scratch project day
     - Scratch project presentations
+- Midterm [1 Week]
+    - Summary and review
+    - Midterm Exam
 - K-2.DI [1 Week]
     - Data and information introduction and terminology
     - Data representation in Sheets
