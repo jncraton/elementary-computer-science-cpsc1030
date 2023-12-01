@@ -22,23 +22,23 @@ Required Resources
 Course Objectives
 -----------------
 
-Core Concepts
+### Core Concepts
 
-1. Data and Information (DI);
-2. Computing Devices and Systems (CD);
-3. Programs and Algorithms (PA);
-4. Networking and the Internet (NI); and
+1. Data and Information (DI)
+2. Computing Devices and Systems (CD)
+3. Programs and Algorithms (PA)
+4. Networking and the Internet (NI)
 5. Impact and Culture (IC);
 
-Core Practices
+### Core Practices
 
-1. Fostering an inclusive computing culture;
-2. Collaborating around computing;
-3. Recognizing and defining computational problems;
-4. Developing and using abstractions;
-5. Creating computational artifacts;
-6. Testing and refining computational artifacts; and
-7. Communicating about computing.
+1. Fostering an inclusive computing culture
+2. Collaborating around computing
+3. Recognizing and defining computational problems
+4. Developing and using abstractions
+5. Creating computational artifacts
+6. Testing and refining computational artifacts
+7. Communicating about computing
 
 Course Overview
 ---------------
