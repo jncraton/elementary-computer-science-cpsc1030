@@ -63,20 +63,15 @@ Topics by Week
 - Why CS and CT? [1 Week]
 - K-2.CD [1 Week]
     - Hardware and software terminology and paradigms
-    - Troubleshooting Software Issues
-    - Selecting Appropriate Software
+    - Selecting appropriate software and troubleshooting software issues
 - K-2.NI [1 Week]
     - Computer networking basics
-    - The architecture of the Internet
-    - The worldwide web
+    - The architecture of the Internet and the world wide web
 - K-2.PA [3 Weeks]
     - Breaking problems into steps
-    - Optimizing instruction order
-    - Repeating instruction sequences
     - Creating objects in BlocksCAD
     - Step-by-step Scratch
-    - Branching in Scratch
-    - Loops in Scratch
+    - Branching and loops in Scratch
     - Flipped classroom Scratch project day
     - Scratch project presentations
 - Midterm [1 Week]
@@ -84,33 +79,24 @@ Topics by Week
     - Midterm Exam
 - K-2.DI [1 Week]
     - Data and information introduction and terminology
-    - Data representation in Sheets
-    - Data presentation in Sheets
+    - Data representation and presentation in Sheets
 - 3-5.CD [1 Week]
     - The nature of computer and machine intelligence
-    - The relationship between hardware and software
-    - Troubleshooting hardware and software issues
+    - The relationship between hardware and software and trouble shooting
 - K-5.NI [1 Week]
-    - Passwords
-    - Cyberattack vectors
+    - Passwords and Cyberattack vectors
     - Packets and Encryption
 - 3-5.PA [3 Weeks]
-    - Python: Expressions
-    - Python: Statements
-    - Python: Variables
-    - Python: Conditionals
+    - Python: Expressions and Statements
+    - Python: Variables and Conditionals
     - Python: Loops
     - Attribution in software development
-    - Python project day 1
-    - Python project day 2
+    - Flipped classroom Python project day
     - Python project presentations
 - 3-5.DI [3 Weeks]
-    - Extremely basic data exploration using Colab and Pandas
-    - Descriptive statistic using Colab and Pandas
-    - Extremely basic data visualization using Colab and Pandas
-    - Step-by-step SPIKE
+    - Data exploration using Colab and Pandas
+    - Data visualization using Colab and Pandas
     - Reacting to input with SPIKE
-    - Looping with SPIKE
     - Logging sensor data with SPIKE
     - Flipped SPIKE data project
     - SPIKE project presentations
