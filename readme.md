@@ -93,9 +93,7 @@ Topics by Week
     - Attribution in software development
     - Flipped classroom Python project day
     - Python project presentations
-- 3-5.DI [3 Weeks]
-    - Data exploration using Colab and Pandas
-    - Data visualization using Colab and Pandas
+- 3-5.DI [2 Weeks]
     - Reacting to input with SPIKE
     - Logging sensor data with SPIKE
     - Flipped SPIKE data project
