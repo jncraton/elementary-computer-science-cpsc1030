@@ -59,7 +59,7 @@ Daily quizzes will be given covering key concepts for the learning experience. S
 
 ### Exams
 
-A minimum of 2 exams will be taken in this course. All exams are cumulative with a focus on more recent material.
+A midterm and final exam will be taken in this course. Exams are cumulative with a focus on more recent material.
 
 Topics by Week
 --------------
