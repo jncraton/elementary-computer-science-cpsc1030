@@ -51,7 +51,7 @@ Students will complete regular labs using various technologies. Labs that includ
 
 ### Quizzes and Homework
 
-Daily quizzes will be given covering key concepts for the learning experience. Students will have two attempts on each quiz, one at the start of class and one at the end. Only the highest score will be kept. The lowest 3 scores from the semester will be dropped. Students will also complete homework assignments covering various topics from the course text.
+Daily quizzes will be given covering key concepts for the learning experience. Students will have two attempts on each quiz, one at the start of class and one at the end. Only the highest score will be kept. The lowest 2 scores from the semester will be dropped. Students will also complete homework assignments covering various topics from the course text.
 
 ### Exams
 
