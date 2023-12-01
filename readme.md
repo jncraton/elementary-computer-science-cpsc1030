@@ -14,10 +14,14 @@ Computer Science for Elementary Educators provides elementary educators with the
 Required Resources
 ------------------
 
-- [Indiana K-8 CS Standards](https://media.doe.in.gov/standards/indiana-academic-standards-grades-k-8-computer-science.pdf) (free online resource)
-- [Scratch for Educators](https://scratch.mit.edu/educators) (free online resource)
-- [Python for Everybody](https://www.py4e.com/) (free online resource)
-- [LEGO SPIKE Lesson Plans](https://education.lego.com/en-us/lessons/?products=SPIKE%E2%84%A2+Prime+Set,SPIKE%E2%84%A2+Essential) (free online resource)
+Students are expected to have a laptop that they can bring to class each day.
+
+The following free online resources will be used in this course:
+
+- [Indiana K-8 CS Standards](https://media.doe.in.gov/standards/indiana-academic-standards-grades-k-8-computer-science.pdf)
+- [Scratch for Educators](https://scratch.mit.edu/educators)
+- [Python for Everybody](https://www.py4e.com/)
+- [LEGO SPIKE Lesson Plans](https://education.lego.com/en-us/lessons/?products=SPIKE%E2%84%A2+Prime+Set,SPIKE%E2%84%A2+Essential)
 
 Course Objectives
 -----------------
