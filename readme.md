@@ -1,15 +1,15 @@
 Anderson University
 ===================
 
-CPSC 1030 Computer Science for Elementary Educators
----------------------------------------------------
+CPSC 1030 Computer Science for Educators
+----------------------------------------
 
 !INCLUDE "head.md"
 
 Course Catalog Description
 --------------------------
 
-Computer Science for Elementary Educators provides elementary educators with the necessary knowledge and skills to integrate computer science and computational thinking into their teaching practice. The course focuses on the core concepts and practices of computer science, as well as the importance of fostering an inclusive computing culture in the classroom.
+Computer Science for Educators provides elementary educators with the necessary knowledge and skills to integrate computer science and computational thinking into their teaching practice. The course focuses on the core concepts and practices of computer science, as well as the importance of fostering an inclusive computing culture in the classroom. This course is aligned with the following Indiana Department of Education’s (IDOE) computer science standards: Data and Information (DI); Computing Devices and Systems (CD); Programs and Algorithms (PA); Networking and the Internet (NI). Designed particularly for education majors and does not apply toward majors or minors in Computer Science.
 
 Required Resources
 ------------------
@@ -28,11 +28,12 @@ Course Objectives
 
 ### Core Concepts
 
+The following core concepts are drawn directly from the [Indiana K-8 CS Standards](https://media.doe.in.gov/standards/indiana-academic-standards-grades-k-8-computer-science.pdf):
+
 1. Data and Information (DI)
 2. Computing Devices and Systems (CD)
 3. Programs and Algorithms (PA)
 4. Networking and the Internet (NI)
-5. Impact and Culture (IC)
 
 ### Core Practices
 
