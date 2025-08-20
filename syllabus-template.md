@@ -51,13 +51,13 @@ Course Overview
 
 Please refer to Canvas for a list of assignments and detailed grading breakdown.
 
-### Labs
+### Teaching
 
-Students will complete regular labs using various technologies. Labs that include code that does not compile or parse correctly will be given zero credit.
+Students will craft learning experiences for their peers throughout the semester.
 
 ### Quizzes and Homework
 
-Daily quizzes will be given covering key concepts for the learning experience. Students will have two attempts on each quiz, one at the start of class and one at the end. Only the highest score will be kept. The lowest 2 scores from the semester will be dropped. Students will also complete homework assignments covering various topics from the course text.
+Regular quizzes will be given covering key concepts for the learning experience. Students will also complete homework assignments covering various topics from the course text.
 
 ### Exams
 
