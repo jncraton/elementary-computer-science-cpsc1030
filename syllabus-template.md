@@ -22,6 +22,7 @@ The following free online resources will be used in this course:
 - [Scratch for Educators](https://scratch.mit.edu/educators)
 - [Python for Everybody](https://www.py4e.com/)
 - [LEGO SPIKE Lesson Plans](https://education.lego.com/en-us/lessons/?products=SPIKE%E2%84%A2+Prime+Set,SPIKE%E2%84%A2+Essential)
+- [Code.org Computer Science Basics for K-5 Teachers](https://studio.code.org/courses/self-paced-pl-k5-2024)
 
 Course Objectives
 -----------------
