@@ -29,6 +29,12 @@ Anything you want to know about me?
 
 [Syllabus](https://jncraton.github.io/elementary-computer-science-cpsc1030/)
 
+Mini Lessons
+------------
+
+- ~25 minutes of many of our class sessions will be devoted to you teaching your peers
+- You will each teach 1 group mini lesson and 1 solo mini lesson
+
 ---
 
 ![Needs](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Maslow%27s_Hierarchy_of_Needs_Diagram.png/1024px-Maslow%27s_Hierarchy_of_Needs_Diagram.png)
@@ -38,12 +44,6 @@ Anything you want to know about me?
 How do you [feel](https://nonviolentcommunication.com/wp-content/uploads/2019/07/feelings_needs.pdf) about this class?
 
 ---
-
-Mini Lessons
-------------
-
-- ~25 minutes of many of our class sessions will be devoted to you teaching your peers
-- You will each teach 1 group mini lesson and 1 solo mini lesson
 
 College Mentors for Kids
 ------------------------
