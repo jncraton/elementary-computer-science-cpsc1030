@@ -36,3 +36,11 @@ Anything you want to know about me?
 ---
 
 How do you [feel](https://nonviolentcommunication.com/wp-content/uploads/2019/07/feelings_needs.pdf) about this class?
+
+---
+
+Mini Lessons
+------------
+
+- ~25 minutes of many of our class sessions will be devoted to you teaching your peers
+- You will each teach 1 group mini lesson and 1 solo mini lesson
