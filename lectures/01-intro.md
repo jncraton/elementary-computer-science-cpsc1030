@@ -44,3 +44,8 @@ Mini Lessons
 
 - ~25 minutes of many of our class sessions will be devoted to you teaching your peers
 - You will each teach 1 group mini lesson and 1 solo mini lesson
+
+College Mentors for Kids
+------------------------
+
+Izzy Scott
