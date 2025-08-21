@@ -27,6 +27,10 @@ Anything you want to know about me?
 
 ---
 
+[Syllabus](https://jncraton.github.io/elementary-computer-science-cpsc1030/)
+
+---
+
 ![Needs](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Maslow%27s_Hierarchy_of_Needs_Diagram.png/1024px-Maslow%27s_Hierarchy_of_Needs_Diagram.png)
 
 ---
