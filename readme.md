@@ -87,7 +87,7 @@ Students will craft learning experiences for their peers throughout the semester
 
 ### Quizzes and Homework
 
-Regular quizzes will be given covering key concepts for the learning experience. Students will also complete homework assignments covering various topics from the course text.
+Regular quizzes will be given covering key concepts. Students will also complete homework assignments covering various topics.
 
 ### Exams
 
