@@ -87,7 +87,7 @@ Students will craft learning experiences for their peers throughout the semester
 
 ### Quizzes and Homework
 
-Regular quizzes will be given covering key concepts. Students will also complete homework assignments covering various topics.
+Regular quizzes will be given covering key concepts. Students will also complete assignments outside of class to practice and apply new knowledge.
 
 ### Exams
 
@@ -108,8 +108,6 @@ Topics by Week
     - Creating objects in BlocksCAD
     - Step-by-step Scratch
     - Branching and loops in Scratch
-    - Flipped classroom Scratch project day
-    - Scratch project presentations
 - K-2.DI [1 Week]
     - Data and information introduction and terminology
     - Data representation and presentation in Sheets
@@ -127,13 +125,11 @@ Topics by Week
     - Python: Variables and Conditionals
     - Python: Loops
     - Attribution in software development
-    - Flipped classroom Python project day
-    - Python project presentations
 - 3-5.DI [2 Weeks]
-    - Reacting to input with SPIKE
-    - Logging sensor data with SPIKE
-    - Flipped SPIKE data project
-    - SPIKE project presentations
+    - Data Logging
+    - Data logging in robotics
+    - Analyzing data in Python
+    - Advanced data presentation
 - Final Exam
 
 Grading Scale
