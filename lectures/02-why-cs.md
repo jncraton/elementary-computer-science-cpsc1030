@@ -62,3 +62,8 @@
 - CS and Computational Thinking are essential
 - Empower students to be creators, not just consumers
 - Prepare them for a tech-driven future
+
+College Mentors for Kids
+------------------------
+
+Izzy Scott

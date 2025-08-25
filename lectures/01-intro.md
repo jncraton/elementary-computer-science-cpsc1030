@@ -42,10 +42,3 @@ Mini Lessons
 ---
 
 How do you [feel](https://nonviolentcommunication.com/wp-content/uploads/2019/07/feelings_needs.pdf) about this class?
-
----
-
-College Mentors for Kids
-------------------------
-
-Izzy Scott
