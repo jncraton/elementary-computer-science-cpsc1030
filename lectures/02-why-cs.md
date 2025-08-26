@@ -50,7 +50,7 @@ Izzy Scott
 - Write a simple algorithm
 - Example: Steps to tie shoelaces
 
-## Conclusion
+---
 
 - CS and Computational Thinking are essential
 - Empower students to be creators, not just consumers
