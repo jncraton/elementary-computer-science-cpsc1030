@@ -35,6 +35,8 @@ Izzy Scott
 - Solving a puzzle
 - Breaking down a problem into smaller parts
 
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Z-puzzle.jpg/640px-Z-puzzle.jpg)
+
 ## Example: Pattern Recognition
 
 - Sorting shapes by color and size
@@ -45,10 +47,14 @@ Izzy Scott
 - Following LEGO instructions
 - Step-by-step problem solving
 
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Lego_Color_Bricks.jpg/330px-Lego_Color_Bricks.jpg)
+
 ## Exercise: Algorithmic Thinking
 
 - Write a simple algorithm
 - Example: Steps to tie shoelaces
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Photo_Bate%C5%BEo_Ka_Mikilu.JPG/330px-Photo_Bate%C5%BEo_Ka_Mikilu.JPG)
 
 ---
 
