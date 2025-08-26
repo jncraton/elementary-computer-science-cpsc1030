@@ -32,26 +32,20 @@ Izzy Scott
 - Ability to integrate tech into lessons
 - Inspire next generation of innovators
 
-## Real-World Applications
-
-- Robotics in classrooms
-- Coding clubs
-- Interactive learning tools
-
 ## Example: Decomposition
 
+- Solving a puzzle
 - Breaking down a problem into smaller parts
-- Example: Solving a puzzle
 
 ## Example: Pattern Recognition
 
+- Sorting shapes by color and size
 - Identifying patterns in data
-- Example: Sorting shapes by color and size
 
 ## Example: Algorithmic Thinking
 
+- Recipe for making a sandwich
 - Step-by-step problem solving
-- Example: Recipe for making a sandwich
 
 ## Exercise: Pattern Recognition
 
@@ -69,3 +63,9 @@ Izzy Scott
 - Empower students to be creators, not just consumers
 - Prepare them for a tech-driven future
 
+## Scratch Jr
+
+![](https://www.scratchjr.org/images/homegraphic.png){height=240px}
+
+- [Web-based Programming Environment](https://codejr.org/scratchjr/index.html)
+- [Suggested Activities](https://www.scratchjr.org/teach/activities)
