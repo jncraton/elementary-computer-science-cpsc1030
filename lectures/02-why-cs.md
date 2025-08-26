@@ -1,5 +1,11 @@
 # Why CS and Computational Thinking?
 
+---
+
+## College Mentors for Kids
+
+Izzy Scott
+
 ## What is Computer Science?
 
 - Study of computers
@@ -63,7 +69,3 @@
 - Empower students to be creators, not just consumers
 - Prepare them for a tech-driven future
 
-College Mentors for Kids
-------------------------
-
-Izzy Scott
