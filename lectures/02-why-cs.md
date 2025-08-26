@@ -6,19 +6,17 @@
 
 Izzy Scott
 
-## What is Computer Science?
+---
 
-- Study of computers
-- Problem-solving methods
-- Algorithm design
-- Data structures
+> The study of computers and algorithmic processes, including their principles, their hardware and software designs, their implementation, and their impact on society.
+> 
+> Computer Science Teacher Association (CSTA)
 
 ## What is Computational Thinking?
 
-- Logical reasoning
-- Problem decomposition
-- Pattern recognition
-- Algorithmic thinking
+- Abstraction (problem formulation)
+- Auotmation (solution expression)
+- Analysis (solution execution and evaluation)
 
 ## Why Teach CS in Elementary School?
 
@@ -44,13 +42,8 @@ Izzy Scott
 
 ## Example: Algorithmic Thinking
 
-- Recipe for making a sandwich
+- Following LEGO instructions
 - Step-by-step problem solving
-
-## Exercise: Pattern Recognition
-
-- Find a pattern in a series of numbers
-- Example: 2, 4, 6, 8, 10
 
 ## Exercise: Algorithmic Thinking
 
