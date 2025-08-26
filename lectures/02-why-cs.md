@@ -15,7 +15,7 @@ Izzy Scott
 ## What is Computational Thinking?
 
 - Abstraction (problem formulation)
-- Auotmation (solution expression)
+- Automation (solution expression)
 - Analysis (solution execution and evaluation)
 
 ## Why Teach CS in Elementary School?
