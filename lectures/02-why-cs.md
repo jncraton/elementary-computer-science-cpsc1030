@@ -42,6 +42,8 @@ Izzy Scott
 - Sorting shapes by color and size
 - Identifying patterns in data
 
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Risk_Dice_%2852664929856%29.jpg/330px-Risk_Dice_%2852664929856%29.jpg)
+
 ## Example: Algorithmic Thinking
 
 - Following LEGO instructions
