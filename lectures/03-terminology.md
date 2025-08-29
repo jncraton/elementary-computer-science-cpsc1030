@@ -1,10 +1,42 @@
 # Hardware and Software Terminology and Paradigms
 
+---
+
+K-2.CD.1: Use appropriate terminology in identifying and describing computer hardware.
+
 ## What is Hardware?
 
 - Physical components
 - Examples: CPU, RAM, motherboard
 - Functions: Processing, storage, input/output
+
+---
+
+![CPU](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Intel_i9-14900KF_CPU.jpg/500px-Intel_i9-14900KF_CPU.jpg)
+
+---
+
+![RAM (Volatile Memory)](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/THL32V1055BTG-6.jpg/960px-THL32V1055BTG-6.jpg)
+
+---
+
+![SSD or Hard Drive (Non-volatile storage)](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/2023_Dysk_SSD_Patriot_P210_2TB.jpg/960px-2023_Dysk_SSD_Patriot_P210_2TB.jpg)
+
+---
+
+![Motherboard](https://upload.wikimedia.org/wikipedia/commons/b/b7/Computer-motherboard.jpg)
+
+---
+
+![Monitor](https://upload.wikimedia.org/wikipedia/commons/7/76/MonitorLCDlcd.svg){height=540px}
+
+---
+
+![Keyboard](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/LenovoKeyboard.jpg/960px-LenovoKeyboard.jpg)
+
+---
+
+![Mouse](https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/3-Tasten-Maus_Microsoft.jpg/548px-3-Tasten-Maus_Microsoft.jpg)
 
 ## What is Software?
 
