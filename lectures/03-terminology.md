@@ -14,9 +14,21 @@ K-2.CD.1: Use appropriate terminology in identifying and describing computer har
 
 ![CPU](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Intel_i9-14900KF_CPU.jpg/500px-Intel_i9-14900KF_CPU.jpg)
 
+## CPU (Central Processing Unit)
+
+- Brain of the computer
+- Executes instructions
+- Determines speed and performance
+
 ---
 
 ![RAM (Volatile Memory)](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/THL32V1055BTG-6.jpg/960px-THL32V1055BTG-6.jpg){height=540px}
+
+## RAM (Random Access Memory)
+
+- Temporary storage
+- Faster than hard drives
+- Affects multitasking and speed
 
 ---
 
@@ -25,6 +37,12 @@ K-2.CD.1: Use appropriate terminology in identifying and describing computer har
 ---
 
 ![Motherboard](https://upload.wikimedia.org/wikipedia/commons/b/b7/Computer-motherboard.jpg)
+
+## Motherboard
+
+- Main circuit board
+- Connects all components
+- Provides pathways for data
 
 ---
 
@@ -44,23 +62,9 @@ K-2.CD.1: Use appropriate terminology in identifying and describing computer har
 - Examples: Operating systems, apps
 - Functions: Control hardware, perform tasks
 
-## CPU (Central Processing Unit)
+---
 
-- Brain of the computer
-- Executes instructions
-- Determines speed and performance
-
-## RAM (Random Access Memory)
-
-- Temporary storage
-- Faster than hard drives
-- Affects multitasking and speed
-
-## Motherboard
-
-- Main circuit board
-- Connects all components
-- Provides pathways for data
+![Microsoft Windows (Operating System)](https://upload.wikimedia.org/wikipedia/en/9/92/Windows_11_Desktop.png)
 
 ## Operating System (OS)
 
