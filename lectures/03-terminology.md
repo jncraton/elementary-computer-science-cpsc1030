@@ -34,6 +34,12 @@ K-2.CD.1: Use appropriate terminology in identifying and describing computer har
 
 ![SSD or Hard Drive (Non-volatile storage)](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/2023_Dysk_SSD_Patriot_P210_2TB.jpg/960px-2023_Dysk_SSD_Patriot_P210_2TB.jpg){height=540px}
 
+## Storage Devices
+
+- Hold data and programs
+- Examples: Hard drives, SSDs, USB drives
+- Persistent storage for files
+
 ---
 
 ![Motherboard](https://upload.wikimedia.org/wikipedia/commons/b/b7/Computer-motherboard.jpg)
@@ -48,6 +54,12 @@ K-2.CD.1: Use appropriate terminology in identifying and describing computer har
 
 ![Monitor](https://upload.wikimedia.org/wikipedia/commons/7/76/MonitorLCDlcd.svg){height=540px}
 
+## Output Devices
+
+- Display or provide results
+- Examples: Monitors, printers, speakers
+- Convert digital signals into physical form
+
 ---
 
 ![Keyboard](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/LenovoKeyboard.jpg/960px-LenovoKeyboard.jpg){height=540px}
@@ -55,6 +67,12 @@ K-2.CD.1: Use appropriate terminology in identifying and describing computer har
 ---
 
 ![Mouse](https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/3-Tasten-Maus_Microsoft.jpg/548px-3-Tasten-Maus_Microsoft.jpg)
+
+## Input Devices
+
+- Allow user interaction
+- Examples: Keyboard, mouse, touchscreens
+- Convert physical actions into digital signals
 
 ## What is Software?
 
@@ -72,29 +90,23 @@ K-2.CD.1: Use appropriate terminology in identifying and describing computer har
 - Examples: Windows, macOS, Linux
 - Provides user interface
 
+---
+
+![Google Sheets](https://upload.wikimedia.org/wikipedia/en/c/c0/Google_Sheets_Untitled_spreadsheet.png)
+
+---
+
+![Mario](https://upload.wikimedia.org/wikipedia/en/8/80/SMB_wonder_screenshot.png)
+
+---
+
+![Google Chrome](https://upload.wikimedia.org/wikipedia/en/5/51/Google_Chrome_on_Windows_10_screenshot.png)
+
 ## Applications
 
 - Software for specific tasks
 - Examples: Word processors, browsers
 - Enhance productivity and creativity
-
-## Input Devices
-
-- Allow user interaction
-- Examples: Keyboard, mouse, touchscreens
-- Convert physical actions into digital signals
-
-## Output Devices
-
-- Display or provide results
-- Examples: Monitors, printers, speakers
-- Convert digital signals into physical form
-
-## Storage Devices
-
-- Hold data and programs
-- Examples: Hard drives, SSDs, USB drives
-- Persistent storage for files
 
 ## Network Devices
 
@@ -107,12 +119,6 @@ K-2.CD.1: Use appropriate terminology in identifying and describing computer har
 - Access resources over the internet
 - Examples: Google Drive, Dropbox
 - Benefits: Accessibility, collaboration
-
-## Virtualization
-
-- Create virtual versions of hardware
-- Examples: Virtual machines
-- Benefits: Resource efficiency, flexibility
 
 ## Coding and Scripting
 
@@ -128,5 +134,5 @@ print("Hello, world!")
 
 ## Exercise
 
-- Identify hardware and software in your classroom
+- Identify hardware and software in the classroom
 - Discuss their functions and roles
