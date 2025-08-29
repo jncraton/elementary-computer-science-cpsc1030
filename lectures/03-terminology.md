@@ -16,11 +16,11 @@ K-2.CD.1: Use appropriate terminology in identifying and describing computer har
 
 ---
 
-![RAM (Volatile Memory)](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/THL32V1055BTG-6.jpg/960px-THL32V1055BTG-6.jpg)
+![RAM (Volatile Memory)](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/THL32V1055BTG-6.jpg/960px-THL32V1055BTG-6.jpg){height=540px}
 
 ---
 
-![SSD or Hard Drive (Non-volatile storage)](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/2023_Dysk_SSD_Patriot_P210_2TB.jpg/960px-2023_Dysk_SSD_Patriot_P210_2TB.jpg)
+![SSD or Hard Drive (Non-volatile storage)](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/2023_Dysk_SSD_Patriot_P210_2TB.jpg/960px-2023_Dysk_SSD_Patriot_P210_2TB.jpg){height=540px}
 
 ---
 
@@ -32,7 +32,7 @@ K-2.CD.1: Use appropriate terminology in identifying and describing computer har
 
 ---
 
-![Keyboard](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/LenovoKeyboard.jpg/960px-LenovoKeyboard.jpg)
+![Keyboard](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/LenovoKeyboard.jpg/960px-LenovoKeyboard.jpg){height=540px}
 
 ---
 
