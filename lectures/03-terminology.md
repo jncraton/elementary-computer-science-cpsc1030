@@ -111,7 +111,7 @@ K-2.CD.1: Use appropriate terminology in identifying and describing computer har
 ## Network Devices
 
 - Facilitate communication
-- Examples: Routers, modems, Wi-Fi
+- Examples: Routers, Wi-Fi hotspots
 - Connect devices to the internet
 
 ## Cloud Computing
