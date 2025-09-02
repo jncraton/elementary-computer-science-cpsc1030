@@ -16,7 +16,6 @@ K-2.CD.1: Use appropriate terminology in identifying and describing computer har
 
 ## CPU (Central Processing Unit)
 
-- Brain of the computer
 - Executes instructions
 - Determines speed and performance
 
@@ -136,3 +135,7 @@ print("Hello, world!")
 
 - Identify hardware and software in the classroom
 - Discuss their functions and roles
+
+---
+
+Mini Lesson
