@@ -6,16 +6,10 @@ K-2.CD.2: Describe and troubleshoot basic hardware and software problems using a
 
 K-2.CD.3: Select and operate appropriate software to perform a variety of tasks and recognize that users have different needs and preferences for the technology they use.
 
-## What are Problems?
-
-- Sometimes technology doesn't work as expected
-- Problems can be big or small
-- For example, a program might not open or the sound might not work
-
 ## Troubleshooting Technology
 
-- This is the process of solving problems
-- We use a logical approach to find the cause
+- This is the process of solving technical issues
+- We apply a logical approach to find the cause
 
 ## Problem Identification
 
@@ -48,7 +42,7 @@ K-2.CD.3: Select and operate appropriate software to perform a variety of tasks 
 
 ## Exercise
 
-Think about a common classroom problem, like a device not turning on. What are three things you would tell a student to check?
+Think about a common classroom problem, like a device not turning on. What are things you would tell a student to check?
 
 ## Describing Problems
 
@@ -60,10 +54,6 @@ Think about a common classroom problem, like a device not turning on. What are t
 
 - Teach students terms like "keyboard" or "monitor"
 - This empowers them to communicate more effectively
-
-## Exercise
-
-Give an example of a simple hardware or software problem a child might encounter and explain how you would guide them to troubleshoot it. Use appropriate terminology.
 
 ## A Teaching Moment
 
@@ -81,6 +71,32 @@ Give an example of a simple hardware or software problem a child might encounter
 
 How can teaching children about troubleshooting help them beyond computer science?
 
-## Final Exercise
+## Selecting Software
 
-Imagine a student tells you that the "app won't open." What three questions would you ask them to help them solve the problem?
+- We use different software for different tasks
+
+## Recognizing Needs
+
+- People use technology for different reasons
+- A video editor has different needs than a writer
+- Different software serves different purposes
+
+## What's the Goal?
+
+- What do we want to accomplish?
+- Do we want to write a story or draw a picture?
+
+## Different Users
+
+- Software is built with an audience in mind
+- A drawing tool for use in K-5 will have different features than graphic design tools used by professionals
+
+---
+
+Why is it important for children to understand that different people have different technology needs?
+
+## Knowing Your Tools
+
+- Once we know the goal, we can select the right tool
+- For writing, a word processor is a good choice
+- For drawing, a paint program is better
