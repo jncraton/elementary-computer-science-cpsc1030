@@ -4,6 +4,8 @@
 
 K-2.CD.2: Describe and troubleshoot basic hardware and software problems using appropriate terminology.
 
+K-2.CD.3: Select and operate appropriate software to perform a variety of tasks and recognize that users have different needs and preferences for the technology they use.
+
 ## What are Problems?
 
 - Sometimes technology doesn't work as expected
