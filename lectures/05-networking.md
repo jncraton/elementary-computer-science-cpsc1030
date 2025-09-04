@@ -35,3 +35,64 @@ K-2.NI.1: Explain what passwords are, why they are used, and why it is important
 ---
 
 ![Access point relaying a document](https://upload.wikimedia.org/wikipedia/commons/7/77/Wi-Fi.gif){height=540px}
+
+Eavesdropping
+-------------
+
+- Signal sent over radio frequency can be monitored by anyone
+- Data sent of cable can be intercepted
+
+Encryption
+----------
+
+- A mathematical technique to protect information
+- Only intended parties are able to access encrypted information
+
+HTTPS
+-----
+
+- Provides encryption for web traffic
+- Indicated in browser when access secure sites
+
+---
+
+![Security Verification in Firefox](https://upload.wikimedia.org/wikipedia/commons/9/9d/Extended_Validation_on_Firefox_133_screenshot.webp){height=540px}
+
+Access
+------
+
+- Authentication is proving who you are 
+  - Knowing a password
+- Authorization is what you are allowed to do
+  - Reading a doc vs editing it
+
+Passwords
+---------
+
+- Used a one mechanism of authentication
+- Must be kept secret
+- Must be difficult to guess
+
+---
+
+![WiFi password cracking](https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Aircrack-ng_dictionary_attack.png/960px-Aircrack-ng_dictionary_attack.png){height=540px}
+
+Password Cracking
+-----------------
+
+- Software can automate the process of password cracking
+- May be able to try billions of passwords per second
+- Common or reused passwords will be easily guessed
+
+Password Policies
+-----------------
+
+- You will be required to follow password policies of your organization
+- Select passwords that are uncommon and difficult to guess
+
+Second Factor
+-------------
+
+- Many organizations will require two-factor authentication
+- You may need a code or app from your phone to login
+- This protects systems when passwords are stolen
