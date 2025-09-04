@@ -96,3 +96,14 @@ Second Factor
 - Many organizations will require two-factor authentication
 - You may need a code or app from your phone to login
 - This protects systems when passwords are stolen
+
+Exercise
+--------
+
+Which password would you expect to be the strongest?
+
+    A. password
+    B. 123456
+    C. AndersonUniversity1!
+    D. HSrH@2jz
+    E. TypeRentMultiplicationFierce
