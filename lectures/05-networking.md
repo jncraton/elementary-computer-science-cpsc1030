@@ -42,6 +42,12 @@ Eavesdropping
 - Signal sent over radio frequency can be monitored by anyone
 - Data sent of cable can be intercepted
 
+---
+
+![Eavesdropping on coffee shop WiFi](media/coffee-shop-wifi.jpg)
+
+<!-- Gemini 2.5: A photo of a cyberattacker stealing private information by eavesdropping on coffee shop WiFi. -->
+
 Encryption
 ----------
 
