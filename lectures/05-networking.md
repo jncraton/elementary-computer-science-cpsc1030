@@ -46,7 +46,7 @@ Eavesdropping
 
 ![Eavesdropping on coffee shop WiFi](media/coffee-shop-wifi.jpg)
 
-<!-- Gemini 2.5: A photo of a cyberattacker stealing private information by eavesdropping on coffee shop WiFi. -->
+<!-- Gemini 2.5: A photo of a cyberattacker stealing private information by eavesdropping on coffee shop WiFi. https://g.co/gemini/share/00fdd429b355 -->
 
 Encryption
 ----------
