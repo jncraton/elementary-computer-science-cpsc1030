@@ -4,7 +4,10 @@
 
 K-2.PA.1: Breakdown and plan the order of the steps needed for a desired outcome to accomplish the goal.
 
+---
+
 K-2.PA.2: Using age-appropriate vocabulary, explain steps taken and choices made to improve the design of a sequence.
+
 ---
 
 ## The Big Idea
