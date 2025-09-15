@@ -12,7 +12,7 @@ K-2.PA.2: Using age-appropriate vocabulary, explain steps taken and choices made
 
 ## The Big Idea
 
-- We're exploring how to teach young children to plan
+- We're exploring how to teach children to plan
 - This is a core part of computational thinking
 - It's also a fundamental life skill
 
@@ -22,10 +22,9 @@ K-2.PA.2: Using age-appropriate vocabulary, explain steps taken and choices made
 - Planning is about figuring out how to get there
 - We can help children break down a big goal into smaller steps
 
-## The First Step
+## Stating the Goal
 
 - The first step is to state the goal clearly
-- For children, this could be making a sandwich or building a tower
 - Use clear and simple language
 
 ---
@@ -86,6 +85,8 @@ What are some age-appropriate words we can use to help children talk about impro
 
 Work with a partner. Plan how to tie a shoe and then explain the steps you chose and why you chose them to another pair of students.
 
+---
+
 How can we help children understand that "failing" at a task is an important part of the learning process?
 
 ## Final Step: Review
@@ -93,7 +94,3 @@ How can we help children understand that "failing" at a task is an important par
 - After the task is complete, review the process
 - Did the plan work as expected?
 - What could be done differently next time?
-
-## Exercise
-
-Come up with a simple game, and break it down into the smallest possible steps to teach to someone who has never played it before.
