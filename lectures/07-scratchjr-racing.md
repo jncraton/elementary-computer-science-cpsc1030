@@ -28,6 +28,12 @@ improve the design of a sequence.
 - Explaining your design, even to someone who doesn't understand it, can lead to improvements
 - [Rubber duck debugging on Wikipedia](https://en.wikipedia.org/wiki/Rubber_duck_debugging)
 
+## ScratchJR
+
+- Simplified Scratch environment
+- Designed for young children ages 5-7
+- [More info](http://scratchjr.org/about/info)
+
 ## The "Run a Race" Activity
 
 - The student programs a character to run
