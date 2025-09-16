@@ -28,16 +28,9 @@ improve the design of a sequence.
 - Explaining your design, even to someone who doesn't understand it, can lead to improvements
 - [Rubber duck debugging on Wikipedia](https://en.wikipedia.org/wiki/Rubber_duck_debugging)
 
-## Improving the Design
-
-- Learning to look at their work with a critical eye
-- This helps them see where the problem is
-- It's an important part of the creative process
-
 ## The "Run a Race" Activity
 
 - The student programs a character to run
-- The cat runs from the starting line to the finish line
 - The student learns about sequencing and motion
 
 Creating a Race
