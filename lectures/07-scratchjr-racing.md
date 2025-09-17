@@ -1,5 +1,5 @@
-ScratchJr
-=========
+Describing Steps in ScratchJr
+=============================
 
 ---
 
