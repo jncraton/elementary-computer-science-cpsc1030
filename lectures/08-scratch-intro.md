@@ -31,7 +31,7 @@ reading: '[Introduction to Scratch](https://cms.scratchfoundation.org/assets/c91
 
 ---
 
-![Sprite Options[(media/scratch-sprite-creation.png)
+![Sprite Options](media/scratch-sprite-creation.png)
 
 ## Scratch Blocks
 
