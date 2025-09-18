@@ -4,6 +4,7 @@ reading: '[Introduction to Scratch](https://cms.scratchfoundation.org/assets/c91
 
 # Introduction to Scratch
 
+
 ## The Scratch Interface
 
 - The stage is where our creations come to life
@@ -12,7 +13,8 @@ reading: '[Introduction to Scratch](https://cms.scratchfoundation.org/assets/c91
 
 ## Exercise
 
-Open Scratch and choose a new sprite from the library.
+- Open Scratch and choose a new sprite from the library.
+- [https://scratch.mit.edu](https://scratch.mit.edu)
 
 ## Scratch Blocks
 
