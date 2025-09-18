@@ -13,8 +13,25 @@ reading: '[Introduction to Scratch](https://cms.scratchfoundation.org/assets/c91
 
 ## Exercise
 
-- Open Scratch and choose a new sprite from the library.
+- Open Scratch and choose a new sprite from the library
 - [https://scratch.mit.edu](https://scratch.mit.edu)
+
+---
+
+![Scratch UI](media/scratch-ui.png)
+
+## Sprites
+
+- In Scratch, any character or object is called a sprite
+- Every new project in Scratch starts with the Cat sprite
+
+---
+
+![Adding Sprites](media/scratch-add-sprite.png)
+
+---
+
+![Sprite Options[(media/scratch-sprite-creation.png)
 
 ## Scratch Blocks
 
