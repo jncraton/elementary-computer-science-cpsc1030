@@ -4,6 +4,18 @@ reading: '[Introduction to Scratch](https://cms.scratchfoundation.org/assets/c91
 
 # Loops in Scratch
 
+---
+
+K-2.PA.3: Develop programs with sequences and simple loops to express ideas or address a problem. (E)
+
+---
+
+K-2.PA.4: Identify and fix (debug) errors in sequences and simple loops.
+
+---
+
+K-2.PA.5: Model daily processes by creating and following algorithms (i.e., sets of step-by-step instructions) to complete tasks. (E)
+
 ## What are Loops?
 
 - A way to repeat a sequence of blocks
