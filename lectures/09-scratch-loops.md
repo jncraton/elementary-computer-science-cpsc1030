@@ -42,7 +42,6 @@ What's a repetitive task you do every day that could be described as a loop?
 
 - A sequence is a single run-through of a set of commands
 - A loop is a program construct that executes a sequence repeatedly
-- Think of it as a repeating sequence
 
 ---
 
@@ -56,13 +55,11 @@ How can loops help us tell more complex stories with our programs?
 
 ## Exercise
 
-- Modify your jumping cat program to use a `repeat` loop
+- Create a program to use a `repeat` loop
 - How many blocks did you save by using a loop?
-- How would you make the cat jump 10 times instead of 3?
 
 ## Debugging
 
-- Debugging means finding and fixing errors in code
 - Loops can be tricky to debug because they repeat
 - If there's an error inside a loop, it will repeat with every iteration
 
@@ -78,20 +75,13 @@ How can loops help us tell more complex stories with our programs?
 - Use `say` blocks to print out the values of variables as the loop runs
 - Check the number in your `repeat` loop to make sure it's correct
 
-## Exercise
-
-- Create a program where a sprite turns 360 degrees
-- Now, try to intentionally break it by changing the number in the `repeat` loop
-- Can you identify what's wrong and fix it?
-
 ## Summary
 
 - Loops are fundamental to writing efficient code
 - The `forever` and `repeat` loops are two common types
 - Debugging is a key skill for working with loops
 
-## The Power of Loops
+## Further Reading
 
-- Loops allow us to create complex, dynamic animations and games
-- They are a core concept in almost every programming language
-- We can build on this with more advanced loop types later
+- A `repeat` loop is also called a [for loop](https://en.wikipedia.org/wiki/For_loop)
+- A `forever` loop is also call an [infinite loop](https://en.wikipedia.org/wiki/Infinite_loop)
