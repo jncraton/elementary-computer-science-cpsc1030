@@ -76,8 +76,7 @@ Open Google Sheets. Create a new sheet. In column A, list five things you can se
 
 What challenges might a first grader face when moving from direct observations to organizing that information in a table?
 
-## Step 3: Transformation
+## Step 3: Inquiry
 
 - Now we can work with our data
-- Transformation means asking questions of our data
 - How many blue things did we find?
