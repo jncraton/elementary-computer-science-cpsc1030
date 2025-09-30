@@ -37,7 +37,7 @@ How can we make 'data' a friendly, non-intimidating word for a six-year-old?
 
 ## A Simple Task
 
-- A student uses a tablet to take pictures of five blue items in the room
+- A student uses a tablet to take pictures of five items in the room
 - This is data collection in action
 
 ## Step 2: Storage
@@ -62,11 +62,11 @@ How can we make 'data' a friendly, non-intimidating word for a six-year-old?
 
 | Object | Color |
 | :--- | :--- |
-| Marker | Blue |
+| Marker | Red |
 | Book | Blue |
-| Block | Blue |
-| Rug | Blue |
-| Chair | Red |
+| Block | Green |
+| Rug | Gray |
+| Chair | Orange |
 
 ## Exercise
 
