@@ -30,7 +30,7 @@ We can represent data using symbols to create a model.
 
 ---
 
-What are some examples of data you could collect from a kindergarten class on the first day of school?
+What are some examples of data you could collect from a class on the first day of school?
 
 ---
 
@@ -51,16 +51,9 @@ Google Sheets is a tool for storing and organizing data in a digital grid.
 - Each row can represent a different item or person
 - Each column can represent a different category of information
 
-## Let's Make Data
-
-We can create a simple class pet survey together.
-
-- Column A: Pet Type
-- Column B: Number of Votes
-
 ## Exercise
 
-Create a new Google Sheet. Label column A "Flavor" and column B "Votes". Enter three ice cream flavors and give each a number of votes.
+Create a new Google Sheet. Label column A "Pet" and column B "Count". Enter total counts for each pet owned in the classroom.
 
 ## Retrieving Data
 
