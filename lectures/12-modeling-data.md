@@ -1,5 +1,15 @@
 # Modeling Data
 
+---
+
+K-2.DI.2: Define stored information as data and when appropriate, copy, search, retrieve, modify, and delete it
+
+---
+
+K-2.DI.3: Model that data can be stored and manipulated using numbers or symbols to represent information.
+
+---
+
 ## What is Data?
 
 - Any piece of stored information
