@@ -29,7 +29,7 @@ a document with things that start with “a”).
 
 How can we make 'data' a friendly, non-intimidating word for a six-year-old?
 
-## Step 1: Collection
+## Collection
 
 - This is the "gathering" phase
 - Digital tools can be cameras, tablets, or computers
@@ -40,7 +40,7 @@ How can we make 'data' a friendly, non-intimidating word for a six-year-old?
 - A student uses a tablet to take pictures of five items in the room
 - This is data collection in action
 
-## Step 2: Storage
+## Storage
 
 - Where do the observations go?
 - We need a place to organize our data
@@ -76,7 +76,7 @@ Open Google Sheets. Create a new sheet. In column A, list five things you can se
 
 What challenges might a first grader face when moving from direct observations to organizing that information in a table?
 
-## Step 3: Inquiry
+## Inquiry
 
 - Now we can work with our data
 - How many blue things did we find?
