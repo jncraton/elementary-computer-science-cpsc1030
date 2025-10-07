@@ -74,8 +74,8 @@ Before using a computer, model these ideas with physical objects.
 
 ## Types of Visuals
 
-- **Tally marks** are an early, simple visual
-- **Bar charts** use rectangles to compare groups
+- Tally marks are an early, simple visual
+- Bar charts use rectangles to compare groups
 
 ## Bar Charts
 
@@ -85,7 +85,7 @@ Before using a computer, model these ideas with physical objects.
 
 ## Organizing Data Effectively
 
-- Data can be **sorted** before being presented
+- Data can be sorted before being presented
 - Sorting makes the visual format much clearer
 - Start with sorting by size or count
 
@@ -100,21 +100,16 @@ Before using a computer, model these ideas with physical objects.
 - Use the 'Insert' menu and select 'Chart'
 - Sheets automatically suggests visual formats
 
-## Chart Format Choice
-
-- For K-2, stick to basic charts like **Bar Charts** or **Pie Charts**
-- The goal is simple, direct comparison
-
 ## Describing Patterns
 
 - Once data is visual, students describe what they see
 - "Blue has the most" or "Red and Green are the same"
-- This links the visual to an **observation**
+- This links the visual to an observation
 
 ## Making Predictions
 
 - Use the identified patterns to guess what might happen next
-- Predictions encourage **critical thinking**
+- Predictions encourage critical thinking
 
 ---
 
