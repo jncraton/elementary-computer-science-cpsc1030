@@ -34,10 +34,6 @@ We can represent data using symbols to create a model.
 
 Google Sheets is a tool for storing and organizing data in a digital grid.
 
-## Exercise
-
-Create a new Google Sheet. Label column A "Pet" and column B "Count". Enter total counts for each pet owned in the classroom.
-
 ## References
 
 - Row and columns can be referenced within formulas
@@ -53,9 +49,8 @@ How can we adapt this for K-2 students?
 
 - Using pictures or emojis instead of words
 - Using simple, relatable datasets like favorite foods
-- Focusing on the physical actions of changing the data
 
-## Unplugged First
+## Unplugged
 
 Before using a computer, model these ideas with physical objects.
 
