@@ -101,10 +101,6 @@ Before using a computer, model these ideas with physical objects.
 - Use the identified patterns to guess what might happen next
 - Predictions encourage critical thinking
 
----
-
-What are the ethical implications of presenting data visually, even in a simple K-2 context?
-
 ## Final Check
 
 - Does the visual match the original data?
