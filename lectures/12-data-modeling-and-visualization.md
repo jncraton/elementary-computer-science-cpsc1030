@@ -34,11 +34,6 @@ We can represent data using symbols to create a model.
 
 Google Sheets is a tool for storing and organizing data in a digital grid.
 
-## Rows and Columns
-
-- Each row can represent a different item or person
-- Each column can represent a different category of information
-
 ## Exercise
 
 Create a new Google Sheet. Label column A "Pet" and column B "Count". Enter total counts for each pet owned in the classroom.
