@@ -100,17 +100,11 @@ If a machine can generate a story, does that mean it's creative? Why or why not?
 
 How is the way an LLM learns a language different from the way a child learns a language?
 
-## Exercise
-
-Write a two-sentence instruction for a child that highlights a key difference between human and machine thinking.
-
 ## General vs Narrow
 
 - Humans have general-purpose minds
 - We are flexible problem-solvers
 - Machines have specific, narrow functions
-
----
 
 ## Exercise
 
