@@ -1,4 +1,4 @@
-# Computer Systems Essentials
+# Computer Systems
 
 ---
 
@@ -49,6 +49,10 @@ system.
 
 If a recipe is software, what is hardware?
 
+---
+
+![Von Neumann Architecture](https://upload.wikimedia.org/wikipedia/commons/e/e5/Von_Neumann_Architecture.svg){height=540px}
+
 ## Working Together
 
 - Hardware is useless without software
@@ -80,13 +84,9 @@ If a recipe is software, what is hardware?
 - They are connected and work together
 - Each part plays a critical role in the whole system
 
-## Exercise
-
-Name one internal and one external part of a tablet computer, and briefly describe what each part does.
-
 ## Why Systems Fail
 
-- Sometimes a computer doesn't work right
+- Sometimes a computer doesn't work properly
 - This is often a problem with either hardware or software
 - We need to figure out which one is causing the issue
 
@@ -150,7 +150,3 @@ If a task requires quick calculations, what hardware component is most important
 - All systems have input (like a touch screen or keyboard)
 - All have output (like a speaker or screen)
 - All have a way to process information (like a CPU)
-
-## Exercise
-
-You want to listen to music. Which combination of hardware and software is best? Describe the steps a child would take.
