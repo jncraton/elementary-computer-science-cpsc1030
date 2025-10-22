@@ -138,15 +138,3 @@ If a recipe is software, what is hardware?
 ---
 
 If a task requires quick calculations, what hardware component is most important?
-
-## Comparing Systems
-
-- Computers are similar, even if they look different
-- A phone, a laptop, and a desktop all have hardware and software
-- They all process information
-
-## Looking for Similarities
-
-- All systems have input (like a touch screen or keyboard)
-- All have output (like a speaker or screen)
-- All have a way to process information (like a CPU)
