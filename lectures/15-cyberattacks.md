@@ -44,7 +44,7 @@ If your favorite video game required your home address, what worries might you h
 - They want to steal personal information
 - This is a cybersecurity problem
 
-# CIA triad
+## CIA triad
 
 - Heart of information security
 - Confidentiality
