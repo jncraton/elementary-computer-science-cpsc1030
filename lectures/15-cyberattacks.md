@@ -70,6 +70,18 @@ If your favorite video game required your home address, what worries might you h
 
 ![Phishing Attempt](https://upload.wikimedia.org/wikipedia/commons/d/d9/Example_bank_phishing_email.svg){height=540px}
 
+## Malware
+
+- A portmanteau of "malicious" and "software"
+- Designed to cause disruption to a computer system, gain unauthorized access, or deprive access
+
+---
+
+![Browser Hijack](https://upload.wikimedia.org/wikipedia/commons/9/97/Conduit_Search_Screenshot.jpg){height=360}
+
+---
+
+![Dark Comet RAT](https://upload.wikimedia.org/wikipedia/commons/2/2c/DarkComet2.png)
 
 ## Minimizing Risk
 
