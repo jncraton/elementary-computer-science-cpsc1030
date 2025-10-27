@@ -52,7 +52,7 @@ What's a decision you make every day that has an "if-then" structure?
 
 - Create a program where a sprite says "Hello" only if the space key is pressed.
 - What happens if the space key is not pressed?
-- Can you use the `forever` loop from our last lesson to make it continuously check for a keypress?
+- Can you use the `forever` loop from our last lesson to make it continuously check for a key press?
 
 ## Conditionals and Loops
 

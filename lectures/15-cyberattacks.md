@@ -53,7 +53,7 @@ If your favorite video game required your home address, what worries might you h
 
 ## Encryption
 
-- If implemented properly, encryptions protects data in transit
+- If implemented properly, encryption protects data in transit
 - Appropriate practices must be followed
 
 ## Strong Passwords
