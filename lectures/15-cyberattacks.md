@@ -12,6 +12,10 @@ is transmitted over computer networks.
 problems and how personal information can be
 protected. (E)
 
+## Learning Objective
+
+3-5.NI.2: Model how information is broken down into smaller pieces, transmitted as packets through multiple devices over networks and the internet, and reassembled at the destination.
+
 ## Digital World
 
 - Computers connect us all
