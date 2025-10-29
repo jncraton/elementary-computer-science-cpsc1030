@@ -41,6 +41,9 @@ Example
 Google Colab
 ------------
 
+- Cloud-based Jupyter Notebook environment
+- Allows users to write and execute Python code through the browser
+
 Evaluation in Python
 --------------------
 
