@@ -126,3 +126,8 @@ area = (1 / 2) * int(base) * int(height)
 print("Area of the triange:")
 print(area)
 ```
+
+Example Notebook
+----------------
+
+https://colab.research.google.com/drive/15TY75hjLAa_kEUJ1cT5PqzI9N00dXfNR?usp=sharing
