@@ -140,3 +140,8 @@ elif word1 > word2:
 else:
     print(word1, "and", word2, "are the same word")
 ```
+
+Notebook
+--------
+
+[Colab Notebook](https://colab.research.google.com/drive/1nlzJeKJCQX2KzyETMxk_OicpwOj8r2ku?usp=sharing)
