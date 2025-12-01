@@ -134,3 +134,8 @@ range parameter example
 for i in range(0, 31, 3):
     print(i)
 ```
+
+Notebook
+--------
+
+- [for](https://colab.research.google.com/drive/15cMU3VjgUSb-p7_Wb3rtstsW699rYJnD?usp=sharing)
